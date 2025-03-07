@@ -1,3 +1,4 @@
+//switch stament//
 let day = 7;
 let activity;
 switch (day) {
